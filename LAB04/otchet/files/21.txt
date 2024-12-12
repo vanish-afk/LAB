@@ -1,0 +1,11 @@
+/home/vanish/Музыка
+/home/vanish/.config/goa-1.0
+/home/vanish/Шаблоны
+/home/vanish/.vscode/cli
+/home/vanish/Общедоступные
+/home/vanish/.cache/obexd
+/home/vanish/Изображения
+/home/vanish/.mozilla/extensions
+/home/vanish/Видео
+/home/vanish/Рабочий стол
+/home/vanish/.gnupg/private-keys-v1.d

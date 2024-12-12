@@ -1,0 +1,54 @@
+итого 3096
+ 862440 drwxr-x--- 24 vanish vanish    4096 дек  4 17:20 .
+ 655361 drwxr-xr-x  3 root   root      4096 окт  3 15:29 ..
+ 863162 -rw-------  1 vanish vanish    1825 окт 10 16:27 .bash_history
+ 862459 -rw-r--r--  1 vanish vanish     220 окт  3 15:29 .bash_logout
+ 862460 -rw-r--r--  1 vanish vanish    3771 окт  3 15:29 .bashrc
+ 862619 drwxrwxr-x 15 vanish vanish    4096 дек  4 17:21 .cache
+ 863061 -rw-rw-r--  1 vanish vanish    2988 дек  4 17:12 commands.md
+ 862442 drwxr-xr-x 17 vanish vanish    4096 ноя 26 17:09 .config
+ 862804 -rw-rw-r--  1 vanish vanish       0 окт 24 15:36 .curlrc
+ 862974 -rw-r--r--  1 vanish vanish      23 ноя 21 15:57 .dmrc
+1119053 drwxrwxr-x  2 vanish vanish    4096 окт 10 16:13 .fonts
+ 862875 -rw-rw-r--  1 vanish vanish     188 окт 10 16:07 .gitconfig
+ 862634 drwx------  3 vanish vanish    4096 окт  3 15:34 .gnupg
+ 862462 -rw-r--r--  1 vanish vanish      22 окт  3 15:29 .gtkrc-2.0
+ 862441 -rw-r--r--  1 vanish vanish     516 окт  3 15:29 .gtkrc-xfce
+ 862633 -rw-------  1 vanish vanish       0 окт  3 15:34 .ICEauthority
+1121268 drwxrwxr-x  6 vanish vanish    4096 дек  4 17:05 LAB
+ 863102 -rw-------  1 vanish vanish      20 окт 10 15:58 .lesshst
+ 862729 drwxrwxr-x  4 vanish vanish    4096 окт 10 15:16 .linuxmint
+ 862447 drwxr-xr-x  4 vanish vanish    4096 окт  3 15:34 .local
+ 862756 drwx------  4 vanish vanish    4096 окт  3 15:52 .mozilla
+1119108 drwxrwxr-x  3 vanish vanish    4096 дек  4 17:24 otchet
+ 862734 -rw-rw-r--  1 vanish vanish   95932 окт 24 15:24 .p10k.zsh
+ 863298 -rw-rw-r--  1 vanish vanish       0 июн 10  2025 passwords.txt
+1117979 drwxrwxr-x  6 vanish vanish    4096 окт 24 15:19 powerlevel10k
+ 862461 -rw-r--r--  1 vanish vanish     807 окт  3 15:29 .profile
+1117983 drwxrwxr-x 11 vanish vanish    4096 ноя 26 17:57 structure
+ 862746 -rw-r--r--  1 vanish vanish       0 окт  3 15:48 .sudo_as_admin_successful
+ 862739 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-clipboard-tty7-control.pid
+ 863483 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-clipboard-tty7-service.pid
+ 862977 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-draganddrop-tty7-control.pid
+ 863564 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-draganddrop-tty7-service.pid
+ 862753 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-hostversion-tty7-control.pid
+ 862969 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-seamless-tty7-control.pid
+ 863557 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-seamless-tty7-service.pid
+ 863160 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-vmsvga-session-tty7-control.pid
+ 863565 -rw-r-----  1 vanish vanish       5 дек  4 16:12 .vboxclient-vmsvga-session-tty7-service.pid
+ 863302 drwxrwxr-x  4 vanish vanish    4096 окт 10 15:39 .vscode
+ 862779 -rw-rw-r--  1 vanish vanish     165 окт 24 15:37 .wget-hsts
+ 862613 -rw-------  1 vanish vanish      62 дек  4 16:12 .Xauthority
+ 862604 -rw-------  1 vanish vanish 1445689 дек  4 17:26 .xsession-errors
+ 862609 -rw-------  1 vanish vanish 1428818 ноя 26 18:04 .xsession-errors.old
+1121092 drwxrwxr-x  3 vanish vanish    4096 окт 24 15:41 .zsh
+ 862735 -rw-rw-r--  1 vanish vanish     861 ноя 21 15:42 .zshrc
+1119314 drwxrwxr-x  8 vanish vanish    4096 окт 24 15:38 zsh-syntax-highlighting
+ 862627 drwxr-xr-x  2 vanish vanish    4096 окт  3 15:34 Видео
+ 862624 drwxr-xr-x  3 vanish vanish    4096 ноя 26 17:35 Документы
+ 862621 drwxr-xr-x  4 vanish vanish    4096 ноя 26 18:00 Загрузки
+ 862626 drwxr-xr-x  2 vanish vanish    4096 окт  3 15:34 Изображения
+ 862625 drwxr-xr-x  2 vanish vanish    4096 окт  3 15:34 Музыка
+ 862623 drwxr-xr-x  2 vanish vanish    4096 окт  3 15:34 Общедоступные
+ 862620 drwxr-xr-x  2 vanish vanish    4096 окт  3 15:34 Рабочий стол
+ 862622 drwxr-xr-x  2 vanish vanish    4096 окт  3 15:34 Шаблоны
